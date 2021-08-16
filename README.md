@@ -1,1 +1,1 @@
-# EDA-using-Plotly.
+Perform Data Analysis and buid interactive plots using Plotly.
